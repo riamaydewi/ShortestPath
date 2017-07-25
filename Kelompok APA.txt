@@ -1,0 +1,9 @@
+Tema : Dynamic Programming - Shortest Path
+
+Anggota :
+1. Euis Lisnawati (1107130056)
+2. Ria May Dewi (1107130090)
+3. Risti Nurpadilah (1107130098)
+4. Sandro Budikusuma Butarbutar (1107130124)
+
+Kelas : IK_37_04
